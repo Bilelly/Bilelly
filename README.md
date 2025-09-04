@@ -8,14 +8,8 @@
 
 ## 🚀 About Me
 - Data Analyst / Data Scientist (Crédit Agricole, Monoprix)  
-- Passionate about **Machine Learning, NLP, and Data Engineering**  
+- Passionate about **Machine Learning, NLP, ,LLMs and Data Engineering**  
 - Curious, driven, and always learning  
-
----
-
-## 📂 Projects
-- 🚦 [SafeRoad Analytics](https://github.com/Bilelly/SafeRoad-Analytics) — Road accident severity prediction  
-- 🧬 [Biomedical Text Classification](https://github.com/Bilelly/Biomedical-Text-Classification) — 96% accuracy cancer research NLP  
 
 ---
 
@@ -27,5 +21,3 @@
 
 ## 📫 Contact
 - [LinkedIn](https://www.linkedin.com/in/bilalsayoud/)  
-- [Email](mailto:sayoudbilal01@gmail.com)  
-- [My Online CV](https://bilelly.github.io)  
