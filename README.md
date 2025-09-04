@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Bilal Sayoud
 
-<!--
-**Bilelly/Bilelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year engineering student in **Applied Mathematics & Data Science**  
+💻 Aspiring **Data Scientist / Machine Learning Engineer**  
+📍 Based in France  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- Data Analyst / Data Scientist (Crédit Agricole, Monoprix)  
+- Passionate about **Machine Learning, NLP, and Data Engineering**  
+- Curious, driven, and always learning  
+
+---
+
+## 📂 Projects
+- 🚦 [SafeRoad Analytics](https://github.com/Bilelly/SafeRoad-Analytics) — Road accident severity prediction  
+- 🧬 [Biomedical Text Classification](https://github.com/Bilelly/Biomedical-Text-Classification) — 96% accuracy cancer research NLP  
+
+---
+
+## 🏆 Certifications
+- Generative AI Engineering — IBM (2024)  
+- Machine Learning Specialization — DeepLearning.AI (2023)  
+
+---
+
+## 📫 Contact
+- [LinkedIn](https://www.linkedin.com/in/bilalsayoud/)  
+- [Email](mailto:sayoudbilal01@gmail.com)  
+- [My Online CV](https://bilelly.github.io)  
