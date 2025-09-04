@@ -41,9 +41,3 @@
 ## 📫 Get in Touch
 - 🔗 [LinkedIn](https://www.linkedin.com/in/bilalsayoud/)
 
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages">
-</div>
