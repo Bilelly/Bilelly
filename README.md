@@ -39,9 +39,7 @@
 ---
 
 ## 📫 Get in Touch
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com) *(Replace with your actual email)*
 - 🔗 [LinkedIn](https://www.linkedin.com/in/bilalsayoud/)
-- 🌐 [Portfolio/Website](#) *(Add if applicable)*
 
 ---
 
