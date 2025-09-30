@@ -11,7 +11,7 @@
 ---
 
 ## 🚀 About Me
-- 🔍 **Data Analyst / Data Scientist** with experience at **Crédit Agricole** and **Monoprix**
+- 🔍 **Data Analyst / Data Scientist** with experience at **Crédit Agricole Leasing** and **Monoprix**
 - 🤖 Passionate about **Machine Learning**, **NLP**, **LLMs**, and **Data Engineering**
 - 📊 Skilled in transforming data into actionable insights
 
