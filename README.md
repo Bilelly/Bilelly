@@ -1,7 +1,7 @@
 <div align="center">
   <h1>👋 Hi, I'm Bilal Sayoud</h1>
   <p>
-    🎓 Final-year Engineering Student in <b>Applied Mathematics & Data Science</b><br>
+    🎓 Engineering in <b>Applied Mathematics & Data Science</b><br>
     💻 Aspiring <b>Data Scientist</b> | <b>Machine Learning Engineer</b><br>
     📍 Based in <b>France</b>
   </p>
@@ -11,8 +11,8 @@
 ---
 
 ## 🚀 About Me
-- 🔍 **Data Analyst / Data Scientist** with experience at **Crédit Agricole Leasing** and **Monoprix**
-- 🤖 Passionate about **Machine Learning**, **NLP**, **LLMs**, and **Data Engineering**
+- 🔍 **Data Scientist** with experience at **Crédit Agricole Leasing** and **Monoprix**
+- 🤖 Passionate about **Machine Learning**, **NLP**, **Finance**
 - 📊 Skilled in transforming data into actionable insights
 
 ---
