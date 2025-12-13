@@ -15,7 +15,6 @@
 - 💼 **Data Scientist** with hands-on experience in **financial services** and **retail analytics**
 - 🔍 Skilled at **transforming raw data into strategic insights** using ML, statistical modeling, and NLP
 - 📈 Strong foundation in **econometrics**, **credit risk modeling**, and **data governance** (Collibra)
-- 🌱 Actively seeking a **Junior Data Scientist** role — ideally at **BNP Paribas** or forward-looking institutions in finance
 
 ---
 
