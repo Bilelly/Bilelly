@@ -50,6 +50,10 @@
 
 ---
 
+---
+https://nbviewer.org/
+---
+
 ## 📊 Skills Snapshot
 
 ```text
