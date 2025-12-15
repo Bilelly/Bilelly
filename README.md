@@ -49,15 +49,4 @@
 ![Collibra](https://img.shields.io/badge/-Collibra-003087?style=flat-square&logo=datahub&logoColor=white)
 
 ---
-https://nbviewer.org/
----
 
-## 📊 Skills Snapshot
-
-```text
-Python      ████████████████████ 95%
-SQL         ████████████████     85%
-ML          ███████████████      80%
-NLP         ████████████         70%
-Docker      ██████████           60%
-Power BI    █████████████████    90%
