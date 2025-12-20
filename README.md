@@ -14,7 +14,6 @@
 ## 🚀 About Me
 - 💼 **Data Scientist** with hands-on experience in **financial services** and **retail analytics**
 - 🔍 Skilled at **transforming raw data into strategic insights** using ML, statistical modeling, and NLP
-- 📈 Strong foundation in **econometrics**, **credit risk modeling**
 
 ---
 
