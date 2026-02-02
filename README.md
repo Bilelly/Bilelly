@@ -1,12 +1,16 @@
 <div align="center">
-  <h1>👋 Hi, I'm Bilal Sayoud</h1>
-  <p>
-    🎓 Engineering Diploma in <b>Applied Mathematics & Data Science</b> (CY Tech)<br>
-    💼 3+ years of alternating experience in <b>data & finance</b> — Crédit Agricole Leasing, Monoprix<br>
-    🎯 Aspiring <b>Data Scientist</b> passionate about <b>Machine Learning</b>, <b>NLP</b>, and <b>Financial Analytics</b><br>
-    📍 Based in <b>Paris, France</b>
-  </p>
-  <a href="https://www.linkedin.com/in/bilalsayoud/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
+# 👋 Hi, I'm Bilal Sayoud
+
+🎓 Engineering Diploma in **Applied Mathematics & Data Science** (CY Tech)  
+💼 3+ years of alternating experience in **data & finance** — Crédit Agricole Leasing, Monoprix  
+🎯 Aspiring **Data Scientist** passionate about **Machine Learning**, **NLP**, and **Financial Analytics**  
+📍 Based in **Paris, France**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bilalsayoud/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://share.streamlit.io/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bilelly)
+
 </div>
 
 ---
