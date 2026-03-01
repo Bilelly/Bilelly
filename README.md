@@ -51,14 +51,6 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Collibra](https://img.shields.io/badge/-Collibra-003087?style=flat-square&logo=datahub&logoColor=white)
 
-<div align="center">
-
-![Visites Totales](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBilelly&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visites+Totales&edge_flat=false)
-![Visites Aujourd'hui](https://img.shields.io/badge/dynamic/json?color=blue&label=Visites%20Aujourd%27hui&query=%24.today&url=https%3A%2F%2Fhits.seeyoufarm.com%2Fapi%2Fcount%2Fincr%2Fbadge.svg%3Furl%3Dhttps%253A%252F%252Fgithub.com%252FBilelly%26count_bg%3D%252379C83D%26title_bg%3D%2523555555%26icon%3D%26icon_color%3D%2523E7E7E7%26title%3Dhits%26edge_flat%3Dfalse)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bilalsayoud/)
-...
-</div>
 
 ## 📊 GitHub Stats
 <p align="center">
