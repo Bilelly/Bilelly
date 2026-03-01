@@ -52,11 +52,5 @@
 ![Collibra](https://img.shields.io/badge/-Collibra-003087?style=flat-square&logo=datahub&logoColor=white)
 
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bilelly&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Statistiques de Bilal" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bilelly&layout=compact&theme=radical&hide_border=true" alt="Langages les plus utilisés" />
-</p>
 ---
 
