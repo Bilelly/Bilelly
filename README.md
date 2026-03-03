@@ -62,5 +62,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bilelly&layout=compact&theme=radical&hide_border=true&langs_count=6" width="48%" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bilelly&theme=react-dark&hide_border=true&area=true" width="48%" />
   <br/><br/>
-  ![Profile Views](https://hits.sh/github.com/Bilelly.svg?style=flat-square&label=Profile%20Views&color=0e75b6)
 </div>
