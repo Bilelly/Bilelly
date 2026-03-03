@@ -54,3 +54,13 @@
 
 ---
 
+<!-- GitHub Stats -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bilelly&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Bilelly&theme=radical&hide_border=true&date_format=jM%5B%20Y%5D" width="48%" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bilelly&layout=compact&theme=radical&hide_border=true&langs_count=6" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bilelly&theme=react-dark&hide_border=true&area=true" width="48%" />
+  <br/><br/>
+  ![Profile Views](https://komarev.com/ghpvc/?username=Bilelly&label=Profile%20Views&color=0e75b6&style=flat-square)
+</div>
